@@ -58,7 +58,7 @@ Run with a TXT File:
 
 python rankings_python_solution/rankings.py matches.txt
 
-📌 Python 3.8+ Required
+Python 3.8+ Required
 
 Tests
 Java: mvn test (cd into RankingsJavaSolution first)
