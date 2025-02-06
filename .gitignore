@@ -1,0 +1,20 @@
+# PYTHON FILES #
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# JAVA FILES #
+*.class
+
+/out/
+
+/target/
+
+.idea/
+*.iml
+
+*.log
+
+.DS_Store
+Thumbs.db
